@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Table V01</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="studentStyle/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/perfect-scrollbar/perfect-scrollbar.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/css/util.css">
+    <link rel="stylesheet" type="text/css" href="studentStyle/css/mainn.css">
+    <!--===============================================================================================-->
+</head>
+
+<body>
+    <div class="limiter">
+        <div class="container-table100">
+            <div class="wrap-table100">
+                <div class="table100">
+                    <table id="examTable">
+                        <thead>
+                            <tr class="table100-head">
+                                <th class="column1">Edit</th>
+                                <th class="column2">Title</th>
+                                <th class="column3">Start</th>
+                                <th class="column4">Duration</th>
+                                <th class="column5">Teacher</th>
+                                <th class="column6">Delete</th>
+                                <th class="column7">Grades</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr id="add-exam-row">
+                                <td class="column1">
+                                    <button type='button' class='add-btn  btn  btn-lg' data-toggle="tooltip"
+                                        id data-placement="right" title="Add Exam" onclick="addExamBtn()">
+                                        <img src="images/icons/plus.png" alt="plus button" />
+                                    </button>
+                                </td>
+                                <td class="title-column2" style="display:none;">
+                                    <input type="text" id="title" />
+                                </td>
+                                <td class="startDate-column3" style="display:none;">
+                                    <input type="date" id="startDate" />
+                                </td>
+                                <td class="duration-column4" style="display:none;">
+                                    <input type="number" id="duration" />
+                                </td>
+
+                                <td class="TeacherId-column5" style="display:none;">
+                                    <input type="text" id="TeacherId" />
+                                </td>
+                                <td class="empty-column6" style="display:none;">
+
+                                </td>
+                                <td class="submit-column7" style="display:none;">
+                                    <input type="submit" onclick="return fillTable();" />
+                                </td>
+
+
+
+
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/bootstrap/js/popper.js"></script>
+    <script src="studentStyle/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/js/main.js"></script>
+    <script src="js/teacher.js"></script>
+</body>
+
+</html>

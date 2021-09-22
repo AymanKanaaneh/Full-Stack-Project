@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Table V01</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="studentStyle/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/vendor/perfect-scrollbar/perfect-scrollbar.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="studentStyle/css/util.css">
+    <link rel="stylesheet" type="text/css" href="studentStyle/css/mainn.css">
+    <!--===============================================================================================-->
+
+</head>
+
+<body>
+    <div class="limiter">
+        <div class="container-table100">
+            <div class="wrap-table100">
+                <div class="table100">
+                    <table id="examDetail">
+                        <thead>
+                            <tr class="table100-head">
+                                <th scope="col">#</th>
+                                <th scope="col">Exam Name</th>
+                                <th scope="col">Exam Date Start</th>
+                                <th scope="col">Exam Time Duration</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div><!-- table100 examDetail -->
+                <button type="button" onclick="examUpdate(this)" class="btn btn-primary btn-lg btn-block">
+                Update Exam</button>
+                <br />
+                <hr />
+                <br />
+                <div class="table100">
+                    <table id="questionsDetail">
+                        <thead>
+                            <tr class="table100-head">
+                                <th scope="col" class="column1">#</th>
+                                <th scope="col">Question</th>
+                                <th scope="col">Option1</th>
+                                <th scope="col">Option2</th>
+                                <th scope="col">Option3</th>
+                                <th scope="col">Option4</th>
+                                <th scope="col">Correct Answer</th>
+                                <th scope="col">Points</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table><!-- table100 questionsDetail -->
+                </div>
+                <button onclick="appendQuestion()" type="button" class="btn btn-primary btn-lg btn-block">
+                    Add
+                    Question
+                </button>
+
+            </div><!-- wrap-table100 -->
+
+
+        </div> <!-- container-table100  -->
+
+       
+
+    </div>
+
+
+
+
+
+
+
+
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/bootstrap/js/popper.js"></script>
+    <script src="studentStyle/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="studentStyle/js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/editExam.css">
+    <script src="js/editExam.js"></script>
+</body>
+
+</html>
+
+
+<!--<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Table V01</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">-->
+<!--===============================================================================================-->
+<!--<link rel="icon" type="image/png" href="studentStyle/images/icons/favicon.ico" />-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/vendor/bootstrap/css/bootstrap.min.css">-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/fonts/font-awesome-4.7.0/css/font-awesome.min.css">-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/vendor/animate/animate.css">-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/vendor/select2/select2.min.css">-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/vendor/perfect-scrollbar/perfect-scrollbar.css">-->
+<!--===============================================================================================-->
+<!--<link rel="stylesheet" type="text/css" href="studentStyle/css/util.css">
+<link rel="stylesheet" type="text/css" href="studentStyle/css/mainn.css">-->
+<!--===============================================================================================-->
+<!--</head>
+
+<body>
+    <div class="limiter">
+        <div class="container-table100">
+            <div class="wrap-table100">
+                <div class="table100">
+                    <table id="examDetail">
+                        <thead>
+                            <tr class="table100-head">
+                                <th scope="col">#</th>
+                                <th scope="col">Exam Name</th>
+                                <th scope="col">Exam Date Start</th>
+                                <th scope="col">Exam Time Duration</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>-->
+<!-- table100 examDetail -->
+<!--<div class="table100">
+    <table id="questionsDetail">
+        <thead>
+            <tr class="table100-head">
+                <th scope="col" class="column1">#</th>
+                <th scope="col">Question</th>
+                <th scope="col">Option1</th>
+                <th scope="col">Option2</th>
+                <th scope="col">Option3</th>
+                <th scope="col">Option4</th>
+                <th scope="col">Correct Answer</th>
+                <th scope="col">Points</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>-->
+<!-- table100 questionsDetail -->
+<!--</div>
+    <button onclick="appendQuestion()" type="button" class="btn btn-primary btn-lg btn-block">Add
+        Question</button>
+
+</div>-->
+<!-- wrap-table100 -->
+<!--</div>--> <!-- container-table100  -->
+<!--<tbody>
+        <tr>
+            <th scope="row">New Question<button type="button" onclick="addQuestion(this);" class="btn btn-default"
+                    data-id="new"><span class="glyphicon glyphicon-edit"></span></button></th>
+            <td><textarea id="questionnew" class="form-control" rows="3"
+                    style="margin-top: 0px; margin-bottom: 0px; height: 46px;">Deafult Question</textarea></td>
+            <td><textarea id="choice1new" class="form-control" rows="3">Deafult Choice 1</textarea></td>
+            <td><textarea id="choice2new" class="form-control" rows="3">Deafult Choice 2</textarea></td>
+            <td><textarea id="choice3new" class="form-control" rows="3">Deafult Choice 3</textarea></td>
+            <td><textarea id="choice4new" class="form-control" rows="3">Deafult Choice 4</textarea></td>
+            <td><textarea id="answernew" class="form-control" rows="3">Deafult Answer</textarea></td>
+            <td>
+                <div class="input-group input-group-lg"><input id="pointsnew" type="text" value="0"
+                        class="form-control input-lg" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+                </div>
+            </td>
+        </tr>
+    </tbody>
+
+
+
+
+
+
+
+
+    <button onclick="appendQuestion()" type="button" class="btn btn-primary btn-lg btn-block">Add Question</button>
+
+</div>-->
+<!--===============================================================================================-->
+<!--<script src="studentStyle/vendor/jquery/jquery-3.2.1.min.js"></script>-->
+<!--===============================================================================================-->
+<!--<script src="studentStyle/vendor/bootstrap/js/popper.js"></script>
+<script src="studentStyle/vendor/bootstrap/js/bootstrap.min.js"></script>-->
+<!--===============================================================================================-->
+<!--<script src="studentStyle/vendor/select2/select2.min.js"></script>-->
+<!--===============================================================================================-->
+<!--<script src="studentStyle/js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/editExam.css">
+    <script src="js/editExam.js"></script>
+</body>
+
+</html>-->

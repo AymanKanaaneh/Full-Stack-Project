@@ -1,0 +1,50 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Exam</title>
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' rel='stylesheet'>
+    <link href='css/executeExam.css' rel='stylesheet'>
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js'></script>
+    <link rel="shortcut icon" href="#">
+
+</head>
+
+<body oncontextmenu='return false' class='snippet-body'>
+
+    <div class="container mt-sm-5 my-1">
+
+
+        <div class="p-3 border-bottom">
+            <div class="d-flex flex-row justify-content-between align-items-center mcq">
+                <h4 id="h4ExamId">Exam ID</h4><span id="time">60:00</span><span id="bar">(5 of 20)</span>
+            </div>
+        </div>
+
+        <div id="questionForm" class="question ml-sm-5 pl-sm-5 pt-2">
+            <div id="question" class="py-2 h5"><b>Q. There is no Question in this exam yet?</b></div>
+            <div class="ml-md-3 ml-sm-3 pl-md-5 pt-sm-0 pt-3" id="options">
+                <label id="option1" class="options">Please tell your teacher to add Question<input type="radio" name="radio"> <span class="checkmark"></span> </label>
+                <label id="option2" class="options">Please tell your teacher to add Question<input type="radio" name="radio"> <span class="checkmark"></span> </label>
+                <label id="option3" class="options">Please tell your teacher to add Question<input type="radio" name="radio"> <span class="checkmark"></span> </label>
+                <label id="option4" class="options">Other <input type="radio" name="radio"> <span class="checkmark"></span> </label>
+            </div>
+        </div>
+
+        <div class="d-flex align-items-center pt-3">
+            <div onclick="prevQuestion()" id="prev"> <button class="btn btn-primary">Previous</button> </div>
+            <div onclick="examSubmit()" id="submitD" style="display: none;" class="ml-auto mr-sm-0"> <button class="btn btn-light">Exam Submit</button> </div>
+            <div onclick="nextQuestion()" class="ml-auto mr-sm-0"> <button class="btn btn-success">Next</button> </div>
+        </div>
+
+    </div>
+
+
+    <script type='text/javascript' src="js/Exam.js"></script>
+    <script type='text/javascript' src="js/Question.js"></script>
+    <script type='text/javascript' src="js/executeExam.js"></script>
+
+</body>
+</html>

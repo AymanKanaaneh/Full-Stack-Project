@@ -1,0 +1,149 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>FullStackProject</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder1\**" />
+    <Compile Remove="NewFolder2\**" />
+    <Compile Remove="NewFolder3\**" />
+    <Compile Remove="NewFolder4\**" />
+    <Content Remove="NewFolder1\**" />
+    <Content Remove="NewFolder2\**" />
+    <Content Remove="NewFolder3\**" />
+    <Content Remove="NewFolder4\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="NewFolder2\**" />
+    <EmbeddedResource Remove="NewFolder3\**" />
+    <EmbeddedResource Remove="NewFolder4\**" />
+    <None Remove="NewFolder1\**" />
+    <None Remove="NewFolder2\**" />
+    <None Remove="NewFolder3\**" />
+    <None Remove="NewFolder4\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\.vs\ProjectSettings.json" />
+    <Content Include="wwwroot\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\.vs\slnx.sqlite" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\animated.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\core.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\icons.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\larger.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\list.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\path.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\less\variables.less" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <None Include="wwwroot\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <None Include="wwwroot\fonts\iconic\fonts\Material-Design-Iconic-Font.svg" />
+    <None Include="wwwroot\fonts\iconic\fonts\Material-Design-Iconic-Font.woff2" />
+    <None Include="wwwroot\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.svg" />
+    <None Include="wwwroot\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff2" />
+    <None Include="wwwroot\js\main.js" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\animated.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\core.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\icons.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\larger.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\list.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\path.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\less\variables.less" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <None Include="wwwroot\studentStyle\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <None Include="wwwroot\studentStyle\js\main.js" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\js\popper.js" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\js\popper.min.js" />
+    <None Include="wwwroot\studentStyle\vendor\bootstrap\js\tooltip.js" />
+    <None Include="wwwroot\studentStyle\vendor\jquery\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\studentStyle\vendor\perfect-scrollbar\perfect-scrollbar.min.js" />
+    <None Include="wwwroot\studentStyle\vendor\select2\select2.js" />
+    <None Include="wwwroot\studentStyle\vendor\select2\select2.min.js" />
+    <None Include="wwwroot\vendor\animsition\js\animsition.js" />
+    <None Include="wwwroot\vendor\animsition\js\animsition.min.js" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\popper.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\popper.min.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\tooltip.js" />
+    <None Include="wwwroot\vendor\countdowntime\countdowntime.js" />
+    <None Include="wwwroot\vendor\daterangepicker\daterangepicker.js" />
+    <None Include="wwwroot\vendor\daterangepicker\moment.js" />
+    <None Include="wwwroot\vendor\daterangepicker\moment.min.js" />
+    <None Include="wwwroot\vendor\jquery\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\vendor\perfect-scrollbar\perfect-scrollbar.min.js" />
+    <None Include="wwwroot\vendor\select2\select2.js" />
+    <None Include="wwwroot\vendor\select2\select2.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\.vs\Ayman_Hussein_315015396\v16\" />
+  </ItemGroup>
+
+</Project>

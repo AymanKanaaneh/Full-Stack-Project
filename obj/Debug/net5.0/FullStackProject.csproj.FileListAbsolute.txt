@@ -1,0 +1,129 @@
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csprojAssemblyReference.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfoInputs.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfo.cs
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.exe
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.deps.json
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.json
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.dev.json
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\ref\FullStackProject.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.pdb
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.Manifest.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.xml
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\scopedcss\bundle\FullStackProject.styles.css
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.RazorTargetAssemblyInfo.cache
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CopyComplete
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\ref\FullStackProject.dll
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.pdb
+C:\Users\ayman\source\repos\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.genruntimeconfig.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.Development.json
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.json
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.exe
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.deps.json
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.json
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.dev.json
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\ref\FullStackProject.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.pdb
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfoInputs.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfo.cs
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CoreCompileInputs.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.Manifest.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.xml
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\scopedcss\bundle\FullStackProject.styles.css
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.RazorTargetAssemblyInfo.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CopyComplete
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\ref\FullStackProject.dll
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.pdb
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.genruntimeconfig.cache
+E:\Users\Shay Doron\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csprojAssemblyReference.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.exe
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.deps.json
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.json
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.runtimeconfig.dev.json
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\ref\FullStackProject.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\FullStackProject.pdb
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csprojAssemblyReference.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfoInputs.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.AssemblyInfo.cs
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CoreCompileInputs.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.Manifest.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\staticwebassets\FullStackProject.StaticWebAssets.xml
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\scopedcss\bundle\FullStackProject.styles.css
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.RazorTargetAssemblyInfo.cache
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.csproj.CopyComplete
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\ref\FullStackProject.dll
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.pdb
+C:\Users\ayman\OneDrive\سطح المكتب\הגשה איימן ושי\FullStackProject\FullStackProject\obj\Debug\net5.0\FullStackProject.genruntimeconfig.cache
